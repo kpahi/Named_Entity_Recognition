@@ -1,0 +1,6 @@
+# exclude the data
+!.gitignore
+
+gmb-2.2.0/data/*
+gmb-2.2.0.zip
+
