@@ -2,5 +2,6 @@
 !.gitignore
 
 gmb-2.2.0/data/*
+rem/*
 gmb-2.2.0.zip
-
+__pycache__/*
